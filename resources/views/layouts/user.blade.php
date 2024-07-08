@@ -13,7 +13,7 @@
         <div id="sidebar" class='active'>
             <div class="sidebar-wrapper active">
                 <div class="sidebar-header">
-                    <img src="{{ asset('assets/images/logo.png') }}" alt="">
+                    <h4>Wikrama Bogor</h4>
                 </div>
                 <div class="sidebar-menu">
                     <ul class="menu">
